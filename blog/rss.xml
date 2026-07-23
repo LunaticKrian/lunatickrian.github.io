@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LUNATIC-E 百成 Blog</title>
+        <link>https://lunatice.com/blog</link>
+        <description>LUNATIC-E 百成 Blog</description>
+        <lastBuildDate>Sat, 18 Jul 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[【阶段总结】重新出发&漫漫征途]]></title>
+            <link>https://lunatice.com/blog/2026/07/18/2026/</link>
+            <guid>https://lunatice.com/blog/2026/07/18/2026/</guid>
+            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[又是一周过去了，这周主要还是在复习数据结构和算法（这一块确实是我一直以来的短板，所以需要好好补补基础）。]]></description>
+            <content:encoded><![CDATA[<p>又是一周过去了，这周主要还是在复习数据结构和算法（这一块确实是我一直以来的短板，所以需要好好补补基础）。
+总的来说这一周还算比较稳定没有什么太大的变化，实习同学这一周last day也撤退了，不知道新的实习生什么时候入职，还是铁打的岗位流水的工人......
+转念一想自己又何尝不是一个螺丝钉，晃眼一过已经毕业两年了，看着他们实习总是能想到当初还没毕业的自己，也是对未来一片茫然，现在回过头来看看，确实走了不少弯路。</p>
+<p><img decoding="async" loading="lazy" alt="img.png" src="https://lunatice.com/assets/images/img-73ba255d4e11b96580bc4acf75ceb236.png" width="1400" height="788" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="重新出发">重新出发<a href="https://lunatice.com/blog/2026/07/18/2026/#%E9%87%8D%E6%96%B0%E5%87%BA%E5%8F%91" class="hash-link" aria-label="重新出发的直接链接" title="重新出发的直接链接">​</a></h2>
+<p>工作的两年时间，经历了AI的大爆发，从传统后端一步一步转型到AI Agent开发，未来真的充满了不确定性呀。AI的发展速度实在是太快了，快得让人心惊胆颤。
+今天可能还在学习的技术，第二天早上起床睁开眼就过时了，开源社区又更新了，谁家又发布了新的大模型，排名又被刷新了......
+永远都在追赶的路上 😂所以最近愈发有一个感觉：基础！基础！！基础！！！</p>
+<p><strong>基础真的非常重要！！！</strong></p>
+<p>你要问我工作的这两年以来体会最深的是什么？那一定就是：基础真的非常重要！什么AI、Agent、大模型这些所谓的高大上的前沿技术一股脑的去追赶真的性价比极低，
+当然不是说没有收获，而是基础不牢，最终理解仅浮于表面。而且这些所谓的新技术都是在传统技术上的新应用，仅此而已。所以学习好 408 是非常重要的一步。</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="漫漫征途">漫漫征途<a href="https://lunatice.com/blog/2026/07/18/2026/#%E6%BC%AB%E6%BC%AB%E5%BE%81%E9%80%94" class="hash-link" aria-label="漫漫征途的直接链接" title="漫漫征途的直接链接">​</a></h2>
+<p>今天在翻以前的每日记录，看到今年06月01日的记录：</p>
+<p><img decoding="async" loading="lazy" alt="img_3.png" src="https://lunatice.com/assets/images/img_3-3101e45beb9504d621f778bd4c8299e2.png" width="1051" height="574" class="img_ev3q"></p>
+<p>唉，计划永远赶不上变化（PS：我依旧在这条路上坚持着，信念得守住），英语确实好久没有碰了😭（又是我的另一个极大的短板，唉，怎么这么多短板......我真的，太难了）
+408的基础一定要打牢，数学慢慢的得找时间开始培养学习兴趣（我需要一个兴趣点，不知道有没有好看的电影或者电视剧，嘿嘿，让我找找带入感--自我感动）</p>
+<p>加油吧！记录一下目前的学习进度：计算机组成原理基础一轮过了一遍有个大概印象，我的计划是过三遍，然后再开始刷题。第一步打基础，第二遍记笔记记理解，第三部查漏补缺；
+目前在补数据结构和算法，这里和面试刷题一起进行，理解原理的同时练习Coding能力（AI太方便之后，Coding能力急剧下滑，好多之前熟悉的API都变得不熟了，有提笔忘字的感觉）</p>
+<hr>
+<p><img decoding="async" loading="lazy" alt="img_4.png" src="https://lunatice.com/assets/images/img_4-a8c0619c33b73b1037d822456ab34c60.png" width="1920" height="958" class="img_ev3q"></p>
+<p>个人物品管理站点总是部署上线了，花了我周末一整天的时间搞这个，本来计划了周天的5个任务，结果最终就完成了两个 😂
+嗯嗯......BUG 还有点多，且得慢慢修吧，唉</p>
+<hr>
+<p>人活着的意义是什么？意义不是一个等待被挖掘的宝藏，而是一支你握在手里的笔。你无法决定纸张的篇幅，但你可以决定每一笔的力度和颜色。</p>
+<p><img decoding="async" loading="lazy" alt="img_2.png" src="https://lunatice.com/assets/images/img_2-dc8a7cf9e0cfb274241d56db2530787a.png" width="1920" height="958" class="img_ev3q"></p>
+<p>嗯嗯...今天就先到这里吧，马上又是新的一周了，照顾好自己！！！身体第一，规划好学习计划！！！</p>
+<p><img decoding="async" loading="lazy" alt="img_1.png" src="https://lunatice.com/assets/images/img_1-f16c851677a420f694008f33dd509766.png" width="700" height="520" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【阶段总结】岁月易逝&岁岁平安]]></title>
+            <link>https://lunatice.com/blog/2026/06/25/2026/</link>
+            <guid>https://lunatice.com/blog/2026/06/25/2026/</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[岁月易逝]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="岁月易逝">岁月易逝<a href="https://lunatice.com/blog/2026/06/25/2026/#%E5%B2%81%E6%9C%88%E6%98%93%E9%80%9D" class="hash-link" aria-label="岁月易逝的直接链接" title="岁月易逝的直接链接">​</a></h2>
+<p>昨天是25岁生日......原来在大人口中的时间过得快是真的，我也成为大人了，原来成为大人一点也不好。</p>
+<p>我能很明显感觉到上班之后身体素质的下滑，借口总是说没有时间去锻炼，其实是自己没有养成一个良好的生活习惯。熬夜纵欲...唉。</p>
+<p>不管怎么样不能在这样继续下去了，身体健康要放在第一位了，因为也不再年轻，身体给我的犯错机会也越来越小。</p>
+<hr>
+<p>嘿嘿，数位屏开始尝试去画画，真的好难入门...（AI对绘画行业的冲击，这个行业行业，或者这个副业还有前途吗😂，不过当个消遣的爱好还是挺不错的）</p>
+<p><img decoding="async" loading="lazy" alt="927b0ca855987d47cd0fdbca93195e72.jpg" src="https://lunatice.com/assets/images/927b0ca855987d47cd0fdbca93195e72-db0482470903e52a9c80c3c26d340b01.jpg" width="2275" height="1279" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="岁岁平安">岁岁平安<a href="https://lunatice.com/blog/2026/06/25/2026/#%E5%B2%81%E5%B2%81%E5%B9%B3%E5%AE%89" class="hash-link" aria-label="岁岁平安的直接链接" title="岁岁平安的直接链接">​</a></h2>
+<p>现在更多的是希望自己和家人的身体健康吧，参加工作之后去医院的频率越来越高。最近看有关医生的电视剧看不下去一点......</p>
+<p>麻绳只找细处断，命运专挑苦命人</p>
+<p>所以26年往后的第一个目标就是保养好身体，钱挣多挣少释然了，当然也发生了不少事...有时间慢慢回忆记录吧，至少再熬到凌晨4、5点加班干工作的活是不会再有了。
+最后还捞不着好，反而被吐槽不靠谱，我真的笑死😂。</p>
+<p><img decoding="async" loading="lazy" alt="img_3.jpg" src="https://lunatice.com/assets/images/img_3-af2a13cefea340e6326b15bd65557954.jpg" width="1992" height="1122" class="img_ev3q"></p>
+<p>“人微言轻” 真的是我亲身总结出来的人生经验！！！（切身体会，果然人只有自己强大才行）</p>
+<p>算了算了，不管怎么样身体永远第一！！！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【阶段总结】无所事事&徒劳无功]]></title>
+            <link>https://lunatice.com/blog/2026/05/04/2026/</link>
+            <guid>https://lunatice.com/blog/2026/05/04/2026/</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[嗯......一转眼就到了26年五一假期的倒数第二天了，随着年龄的积累时间真的过得愈来愈快，越来越多的生活琐事把我的时间切分成了碎片。]]></description>
+            <content:encoded><![CDATA[<p>嗯......一转眼就到了26年五一假期的倒数第二天了，随着年龄的积累时间真的过得愈来愈快，越来越多的生活琐事把我的时间切分成了碎片。
+似乎现在已经很难再静下心来认真思考，慢慢沉淀。人开始浮躁起来，迫切看到成绩和结果，做一些事的时候不再像18、19岁的时候那么不计成本，不顾后果了。
+现在全是 ROI（投资回报率（return on investment，简称ROI））的考量，开始思考做一件事的沉默成本是否可接受，做一些事开始考虑能否给我带来价值，而不是因为我想做才去做。价值变成了第一位。
+有点想不明白了，所以我决定问问 AI：</p>
+<p><img decoding="async" loading="lazy" alt="img.png" src="https://lunatice.com/assets/images/img-50920981f198a7bdff3cc13813131f83.png" width="2736" height="1522" class="img_ev3q"></p>
+<p>ChatGPT 给了我上面的一些回答，我大概总结一下：</p>
+<ul>
+<li>难静下心，浮躁是因为每天都在接受超载的信息量（因为工作原因每天都感受着AI的飞速变化），越来越快的生活节奏和越来越大的生活压力，习惯快速看到结果变得急功近利。
+（身边的人都在不断成长，反而我还在原地踏步）</li>
+<li>心理变化的根源：责任感增加、对时间态度的变化（是的，以前感受不到时间的变化能有这么快，从内心来说我还认为我自己是一个小孩，但是已经到了该成家的年纪，我身边好多人已经慢慢开始结婚生小孩了，
+而我一个人还在北京飘着......）</li>
+</ul>
+<p>当然，GPT 还是给了一些建议：</p>
+<ul>
+<li>给自己留一点空间，回归兴趣：这一点我觉得很重要，培养一个主业以为的长期兴趣爱好。从年初开始慢慢学习摄影，初衷是想当个副业去做，但是慢慢发现这个行业也是一个通过时间换取报酬的事情就放弃了。
+现在转换为记录生活的一种方式吧。阅读真的很重要，我觉得先从财富积累的书籍开始看起写一写读书笔记，每天给自己一个小时的时间进行积累。（后续我应该会列一个清单，先培养习惯）
+<strong>对了，不要 Only Input（只有信息的输入）还要有 Basic Output（输出积累）</strong></li>
+<li>设定长期和短期目标，以前总是会给自己定一些很难达成的目标，因此回顾我这一路历程仿佛都是在求其上而得其中，现在回顾起来其实发现这样的决定其实很糟糕，
+因为每一次收获时并没有很高的成就感，以至于在某些场合和事情上就表现得不那么自信。（因此，我需要 change myself --- 改变自己越快越好）
+短期目标需要垫垫脚就能够到的，长期目标可能需要跳一跳能够到的。最重要最重要的事一定要记录成长的过程对外输出，在如今这个时代真的真的很重要。
+Nike的广告标语就很好：<code>Just Do It</code>，我觉得非常好，但是对于我来说还是差一点： <code>Just Do It，Right Now！</code></li>
+</ul>
+<p>除了上面我觉得AI给出的一些建议外还有一个很关键和重要的有点：<strong>爱惜自己的身体！！！</strong> 这个真的太重要了，从去年中开始，我几乎每个月都需要去一次医院检查，不是腰疼就是脖子疼的。唉~
+给我的日常生活带来了很多不必要的麻烦和焦虑，在我这个年纪本不应该有这些焦虑，所以在日常生活中真的真的要有意识注意这些~</p>
+<ul>
+<li>健康饮食：少油少盐少辣、少喝饮料少饮酒；多吃蔬菜水果，多喝白水</li>
+<li>坚持锻炼：尽量每天给自己规划半个小时的运动时间吧，不需要剧烈运动，合理微微出汗即可，不需要练肌肉等等，保持一个长期有效的运动状态。（出了校园之后真的很少有运动了......）</li>
+<li>合理养生：睡前泡泡热水脚，适当补充一些益生菌和维生素等等，少量长期。保持一个好心情。</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="梳理一下我的日常时间">梳理一下我的日常时间<a href="https://lunatice.com/blog/2026/05/04/2026/#%E6%A2%B3%E7%90%86%E4%B8%80%E4%B8%8B%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8%E6%97%B6%E9%97%B4" class="hash-link" aria-label="梳理一下我的日常时间的直接链接" title="梳理一下我的日常时间的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="工作日程安排">工作日程安排<a href="https://lunatice.com/blog/2026/05/04/2026/#%E5%B7%A5%E4%BD%9C%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92" class="hash-link" aria-label="工作日程安排的直接链接" title="工作日程安排的直接链接">​</a></h3>
+<p>目前的日常是早上9点半左右起床，10点多到公司开始干活；晚上9半左右下班回家。（从起床开始算工作日上班几乎会占据12个小时的时间），从成年人8个小时的必须睡眠时间来看。
+工作日可支配的个人时间其实只有4个小时。个人洗漱收拾什么的可能会花半个小时左右的时间，上面说的运动花上半个小时、阅读花上一个小时的时间，还剩下2个小时的时间。</p>
+<p>按照正常的下班时间来看，10点左右到家（在公司运动完），收拾半个小时大概10点半左右完成洗漱，11点半左右完成阅读，12点左右上床睡觉。看起来是一个比较合理的时间。</p>
+<p>早睡早起（居然晚上12点睡觉在北京已经是一个比较早的时间了），争取养成习惯8点10分到20分左右起床。洗漱喝杯热水吃个早饭就去公司。（这段时间可以学习英文？？？）</p>
+<p>🎉 <strong>注意，早上起床避免直接看手机，进入信息流，让自己保持清晰的思维，专注于学习或整理思绪。</strong></p>
+<p>工作日在公司的12个小时，其中中午有1~2个小时吃饭和休息的时间，需要好好利用。下午有半个小时左右的休息时间需要好好利用。（在公司尽可能提升自己的Coding能力）
+工作日更多的时间花费在个人职业技能的提升上，尤其是AI的迭代速度实在太快了，我需要保持我的个人竞争力。因此这两段时间都ALL IN 个人职业技能提升上。技术深度和广度都需要提升。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="周末节假日程安排">周末节假日程安排<a href="https://lunatice.com/blog/2026/05/04/2026/#%E5%91%A8%E6%9C%AB%E8%8A%82%E5%81%87%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92" class="hash-link" aria-label="周末节假日程安排的直接链接" title="周末节假日程安排的直接链接">​</a></h3>
+<p>周末是相对比较完整的时间，投入到非职业技能的学习上是否合理？目前有什么非职业想学习的技能？？？</p>
+<ul>
+<li>摄影&amp;后期（前期拍摄、PS图像后期、色彩调整、特效制作、Blender后期渲染）</li>
+<li>视频剪辑（AE动画制作、PR视频剪辑）</li>
+<li>微信公号运维（AI技术、金融新闻资讯、王者荣耀游戏资讯等等）</li>
+<li>游戏制作（这是一个探索方向，我希望和AI进行结合进行开发，但是目前没有什么好的方向，想做一个人生副本的地球Online游戏）</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="写在最后碎碎念">写在最后碎碎念<a href="https://lunatice.com/blog/2026/05/04/2026/#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E%E7%A2%8E%E7%A2%8E%E5%BF%B5" class="hash-link" aria-label="写在最后碎碎念的直接链接" title="写在最后碎碎念的直接链接">​</a></h2>
+<p>其它的一些细节暂时没有别的想法了，总结一下近期的状态吧。大概就是原地踏步没有进步，突然找不到方向了，看着身边的人都在进步，唉~鸭梨山大！！！
+26年就快过半了，下半年我要开启turbo模式挑战这个人生副本了，丢掉的 Life Record 得捡起来！</p>
+<p>前半年工作上的变化主要是方向彻底转变为AI工程开发，一个体感就是传统开发逐渐被AI Coding取代，初级程序员已经被取代，注意是已经被取代！而不是可能被取代......
+AI Coding 不是未来已经是现在了，当然让我感到焦虑，距离我失业的日子又进了一步，当然我之前就说过我不能一辈子打工，但是也感受到了AI所带来的压力，已经我对这个社会的轻视。
+创业也许并没有那么容易。当然这可能取决于我的认知还不够。</p>
+<p>用好AI工具，一定要用最好的AI工具！！！别怕花钱，我觉得将我的收入的部分划分出来进行每个月的AI探索。（具体金额我还没有算好......）目前以有的的比较好用的AI 工具是Claude &amp; 他们公司的
+Claude Code，还没有尝试长期使用 GPT 的订阅。Claude目前使用 Max5x 的月成本是在800左右，GPT的订阅是 20刀 也就是180左右。也就是目前在AI上花费的账单大概是1000元。
+当然 Claude + GPT 应该在绝大多数场景下已经够用了。国内还有一些免费的 AI 工具比如豆包等等，可以作为补充。（有付费需求的时候果断付费）</p>
+<p>Assert 断言：AI势必会取代一部分人，这部分一定是不会使用AI工具的人！！！</p>
+<p><img decoding="async" loading="lazy" alt="img_1.png" src="https://lunatice.com/assets/images/img_1-519716be158c71c0f0cbe6d0cb559cf3.png" width="2032" height="1108" class="img_ev3q"></p>
+<p>Mark 记录：今天是五一假期的倒数第二天，第一次来北京这边的星巴克和咖啡学习，体验感不错~下次不想在家呆就来这吧（推荐......）</p>]]></content:encoded>
+        </item>
+        <item>
+            <link>https://lunatice.com/blog/2026/04/15/2026/</link>
+            <guid>https://lunatice.com/blog/2026/04/15/2026/</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摄影人生】“摄影计划“-咖啡厅蕾塞]]></title>
+            <link>https://lunatice.com/blog/2026/03/12/2026/</link>
+            <guid>https://lunatice.com/blog/2026/03/12/2026/</guid>
+            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[电锯人：蕾塞篇]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>电锯人：蕾塞篇</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" alt="img.png" src="https://lunatice.com/assets/images/img-88c9ff5f0c4674324df331fcb0757fff.png" width="1635" height="782" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_1.png" src="https://lunatice.com/assets/images/img_1-4abf023ed492e072ae5343fd20847ffc.png" width="1389" height="780" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_2.png" src="https://lunatice.com/assets/images/img_2-c2ceec30b73873fcea75365aaaced668.png" width="1488" height="785" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="拍摄主题">拍摄主题<a href="https://lunatice.com/blog/2026/03/12/2026/#%E6%8B%8D%E6%91%84%E4%B8%BB%E9%A2%98" class="hash-link" aria-label="拍摄主题的直接链接" title="拍摄主题的直接链接">​</a></h2>
+<p>【电影感、叙事风格】</p>
+<p>所谓故事感，就是包括人物自身的情感、物件背后的故事、人与人之间、人与物件之间的连接感。这样的“连接感”不一定是可以触碰到的，但一定能让人从摄影作品中感受得到。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="服装道具">服装道具<a href="https://lunatice.com/blog/2026/03/12/2026/#%E6%9C%8D%E8%A3%85%E9%81%93%E5%85%B7" class="hash-link" aria-label="服装道具的直接链接" title="服装道具的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="拍摄地点">拍摄地点<a href="https://lunatice.com/blog/2026/03/12/2026/#%E6%8B%8D%E6%91%84%E5%9C%B0%E7%82%B9" class="hash-link" aria-label="拍摄地点的直接链接" title="拍摄地点的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="动作参考">动作参考<a href="https://lunatice.com/blog/2026/03/12/2026/#%E5%8A%A8%E4%BD%9C%E5%8F%82%E8%80%83" class="hash-link" aria-label="动作参考的直接链接" title="动作参考的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="img.png" src="https://lunatice.com/assets/images/img-b2f5cc92576dc8df83b5d6f3c39925d4.png" width="1080" height="1440" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【摄影人生】“摄影计划“-加藤惠]]></title>
+            <link>https://lunatice.com/blog/2026/03/11/2026/</link>
+            <guid>https://lunatice.com/blog/2026/03/11/2026/</guid>
+            <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[路人女主的养成方法]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>路人女主的养成方法</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" alt="img.png" src="https://lunatice.com/assets/images/img-74cc319b954078071988bad26ca9d2cc.png" width="2048" height="1365" class="img_ev3q"></p>
+<p>最近赶上北京的春天花季，因此想拍摄一组：花、JK、少女、动漫风（日系小清新）风格的照片。刚好【路人女主的养成方法】这部番是我大学时期超爱的一部恋爱番。</p>
+<p>PS：谁不想拥有一个像“加藤惠”一样的女朋友呢～</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="拍摄主题">拍摄主题<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%8B%8D%E6%91%84%E4%B8%BB%E9%A2%98" class="hash-link" aria-label="拍摄主题的直接链接" title="拍摄主题的直接链接">​</a></h2>
+<p><strong>【日系小清新、动漫风格】</strong></p>
+<p>结合了日系摄影的恬淡与二次元动画的精致感，核心特征是「高明度、低饱和度、重光影氛围」。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="核心视觉特征">核心视觉特征<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%A0%B8%E5%BF%83%E8%A7%86%E8%A7%89%E7%89%B9%E5%BE%81" class="hash-link" aria-label="核心视觉特征的直接链接" title="核心视觉特征的直接链接">​</a></h3>
+<ul>
+<li>色调：以青、蓝、绿等冷色调为主，常用“新海诚蓝”或“吉卜力绿”。</li>
+<li>光影：强烈的丁达尔效应（耶穌光）、透亮的逆光感，以及如同动漫般的积雨云（云朵边缘清晰、厚实）。</li>
+<li>质感：画面纯净，带有轻微的颗粒感或朦胧感，营造出一种怀旧、治愈的氛围。</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="经典代表风格">经典代表风格<a href="https://lunatice.com/blog/2026/03/11/2026/#%E7%BB%8F%E5%85%B8%E4%BB%A3%E8%A1%A8%E9%A3%8E%E6%A0%BC" class="hash-link" aria-label="经典代表风格的直接链接" title="经典代表风格的直接链接">​</a></h3>
+<ul>
+<li>吉卜力/宫崎骏风格：强调自然美景、郁郁葱葱的森林和充满生活气息的小镇，给人温暖治愈的视觉感受。</li>
+<li>新海诚风格：以极高还原度的城市实景著称，通过夸张的光影和丰富的云彩细节，将日常景观转化成梦幻的动漫场景。</li>
+</ul>
+<p>PS：这里我更偏爱【新海诚风格】，颜色更加鲜明、色彩更加丰富、对比度更高</p>
+<p>参考图片：</p>
+<p><img decoding="async" loading="lazy" alt="img_1.png" src="https://lunatice.com/assets/images/img_1-30ea448c7448a6fcffd571b7edb06ed8.png" width="1200" height="628" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_2.png" src="https://lunatice.com/assets/images/img_2-9501a15a63693b4ef093eda0aefcdd8b.png" width="1400" height="865" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_3.png" src="https://lunatice.com/assets/images/img_3-3801ec5eaa16b662b234fa7b6b584571.png" width="1200" height="628" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_4.png" src="https://lunatice.com/assets/images/img_4-37e6d1ad720c6a107eb6afb18d159ad7.png" width="1920" height="1080" class="img_ev3q"></p>
+<ul>
+<li>滨田英明摄影流派：虽然是摄影师，但其作品的平淡色彩和柔和光线是“日系小清新”审美的典型代表。</li>
+</ul>
+<p>参考图片：</p>
+<p><img decoding="async" loading="lazy" alt="img_5.png" src="https://lunatice.com/assets/images/img_5-8980042c104a29451ee37afe0e8d7a7b.png" width="564" height="856" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_6.png" src="https://lunatice.com/assets/images/img_6-6ca14a8afdaa95f82330514fd9fd06d2.png" width="1080" height="1341" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="摄影技巧">摄影技巧<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%91%84%E5%BD%B1%E6%8A%80%E5%B7%A7" class="hash-link" aria-label="摄影技巧的直接链接" title="摄影技巧的直接链接">​</a></h3>
+<p>增加曝光，降低对比度，调整阴影部分的色相向青色偏移。</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="服装道具">服装道具<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%9C%8D%E8%A3%85%E9%81%93%E5%85%B7" class="hash-link" aria-label="服装道具的直接链接" title="服装道具的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="人物参考">人物参考<a href="https://lunatice.com/blog/2026/03/11/2026/#%E4%BA%BA%E7%89%A9%E5%8F%82%E8%80%83" class="hash-link" aria-label="人物参考的直接链接" title="人物参考的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="img_11.png" src="https://lunatice.com/assets/images/img_11-b62c3eec8f05792de52f5142ccdf9d5f.png" width="807" height="646" class="img_ev3q"></p>
+<ul>
+<li>头饰：白色贝雷帽</li>
+<li>上衣：红色针织衫 + 白色上衣 + 黑色蝴蝶领结</li>
+<li>裙子：白色百褶裙</li>
+<li>袜子：白色过膝袜 + 腿环</li>
+<li>鞋子：红色小皮鞋</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="img_7.png" src="https://lunatice.com/assets/images/img_7-6a15a9804d8ae07b58e1453a7250e185.png" width="654" height="671" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_8.jpg" src="https://lunatice.com/assets/images/img_8-8ec86dc2244b0fdcecaa56cd2cea027d.jpg" width="1200" height="1200" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_9.png" src="https://lunatice.com/assets/images/img_9-36b6c9f43084c7dfaf2f01949fd712ab.png" width="542" height="457" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="拍摄道具">拍摄道具<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%8B%8D%E6%91%84%E9%81%93%E5%85%B7" class="hash-link" aria-label="拍摄道具的直接链接" title="拍摄道具的直接链接">​</a></h3>
+<ul>
+<li>泡泡机（增添拍摄入境素材）</li>
+<li>书 / 笔记本</li>
+<li>透明雨伞</li>
+<li>花瓣 / 蝴蝶</li>
+<li>有线耳机 / 头戴式耳机</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="拍摄地点">拍摄地点<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%8B%8D%E6%91%84%E5%9C%B0%E7%82%B9" class="hash-link" aria-label="拍摄地点的直接链接" title="拍摄地点的直接链接">​</a></h2>
+<blockquote>
+<p>PS：目前主要集中在公园，没有很多的城市主题，因为这次拍摄计划主要是想拍【花季】，所以选址基本都是在公园，自然景色中。后续考虑城市拍摄地点</p>
+</blockquote>
+<p><strong>地图途径的路线图：</strong></p>
+<p><img decoding="async" loading="lazy" alt="img_10.png" src="https://lunatice.com/assets/images/img_10-d38b1bf8bf5761b24ac2dc56046b37af.png" width="1736" height="861" class="img_ev3q"></p>
+<p>目前，最想去的是「奥林匹克森林公园」、「玉渊潭公园」这两个地方，到时候看看时间安排，如果来得及再从其他地点进行选择一个前往，目前计划上午一个地点，下午一个地点</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="奥林匹克森林公园">奥林匹克森林公园<a href="https://lunatice.com/blog/2026/03/11/2026/#%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD" class="hash-link" aria-label="奥林匹克森林公园的直接链接" title="奥林匹克森林公园的直接链接">​</a></h3>
+<p>目前比较想去的一个公园</p>
+<p><img decoding="async" loading="lazy" alt="img_40.png" src="https://lunatice.com/assets/images/img_40-bb0ff62daccf37b045c21548d7ca5df1.png" width="894" height="547" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="玉渊潭公园">玉渊潭公园<a href="https://lunatice.com/blog/2026/03/11/2026/#%E7%8E%89%E6%B8%8A%E6%BD%AD%E5%85%AC%E5%9B%AD" class="hash-link" aria-label="玉渊潭公园的直接链接" title="玉渊潭公园的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="img_41.png" src="https://lunatice.com/assets/images/img_41-e72af7b6c535a6b9bb7f622e0cda0e09.png" width="836" height="549" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="十里堡">十里堡<a href="https://lunatice.com/blog/2026/03/11/2026/#%E5%8D%81%E9%87%8C%E5%A0%A1" class="hash-link" aria-label="十里堡的直接链接" title="十里堡的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="img_44.png" src="https://lunatice.com/assets/images/img_44-34c943a482b0b9b38c922f5fde030c66.png" width="880" height="487" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="四得公园">四得公园<a href="https://lunatice.com/blog/2026/03/11/2026/#%E5%9B%9B%E5%BE%97%E5%85%AC%E5%9B%AD" class="hash-link" aria-label="四得公园的直接链接" title="四得公园的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="img_43.png" src="https://lunatice.com/assets/images/img_43-8031947a6d10da84767d92043a23ee32.png" width="888" height="550" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="朝阳公园">朝阳公园<a href="https://lunatice.com/blog/2026/03/11/2026/#%E6%9C%9D%E9%98%B3%E5%85%AC%E5%9B%AD" class="hash-link" aria-label="朝阳公园的直接链接" title="朝阳公园的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="img_45.png" src="https://lunatice.com/assets/images/img_45-016d358a55784f6abfa3b77712733475.png" width="841" height="403" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="颐和园">颐和园<a href="https://lunatice.com/blog/2026/03/11/2026/#%E9%A2%90%E5%92%8C%E5%9B%AD" class="hash-link" aria-label="颐和园的直接链接" title="颐和园的直接链接">​</a></h3>
+<p>最近的一个公园，公园比较大，人流量比较多</p>
+<p><img decoding="async" loading="lazy" alt="img_42.png" src="https://lunatice.com/assets/images/img_42-89baf3163ade492d2ccaffb4f9555b46.png" width="831" height="553" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="参考动作">参考动作<a href="https://lunatice.com/blog/2026/03/11/2026/#%E5%8F%82%E8%80%83%E5%8A%A8%E4%BD%9C" class="hash-link" aria-label="参考动作的直接链接" title="参考动作的直接链接">​</a></h2>
+<blockquote>
+<p>PS：这里只找了对应角色的COS拍摄图，没有进行分类排序。通用的动作参考素材收集即可！！！</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" alt="img_12.png" src="https://lunatice.com/assets/images/img_12-5c483934c6e64cc3a67b53371d75951a.png" width="1080" height="1920" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_13.png" src="https://lunatice.com/assets/images/img_13-80f810cde9779413236d13920111871d.png" width="1080" height="1626" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_14.png" src="https://lunatice.com/assets/images/img_14-7ed1929356914a27714c8efc54eb2d5b.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_15.png" src="https://lunatice.com/assets/images/img_15-877b1101da511fd747ba44c37dd8016a.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_16.png" src="https://lunatice.com/assets/images/img_16-798ff4bee8610672b3d5474535811bab.png" width="1621" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_17.png" src="https://lunatice.com/assets/images/img_17-16bec04155f16249f40c1eff4c837abc.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_18.png" src="https://lunatice.com/assets/images/img_18-6e884b557cdaf8f05620b5754856c52a.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_19.png" src="https://lunatice.com/assets/images/img_19-53ae3389f293ab02c1fbdef693a8fb08.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_20.png" src="https://lunatice.com/assets/images/img_20-3889408abe65f4379bec53f60e5cbafc.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_21.png" src="https://lunatice.com/assets/images/img_21-dc317cf8f696a6116368dbe704570fc7.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_22.png" src="https://lunatice.com/assets/images/img_22-62a312d6b57e4883ea8aef1b3f163f64.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_23.png" src="https://lunatice.com/assets/images/img_23-b4eff31bf7fe186ec83cfa1ed7f9a114.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_24.png" src="https://lunatice.com/assets/images/img_24-d245d2584971a7b29730d027f5380bf3.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_25.png" src="https://lunatice.com/assets/images/img_25-3d0b2fb5148a6991416d99e393475153.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_26.png" src="https://lunatice.com/assets/images/img_26-aa079113e8de4dc1e03caddf0d19ea61.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_27.png" src="https://lunatice.com/assets/images/img_27-8e81f1d56a64baea24c5f4f15514fbce.png" width="1080" height="1897" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_28.png" src="https://lunatice.com/assets/images/img_28-a812b616b54427d9fbf839258891defa.png" width="1080" height="1620" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_29.png" src="https://lunatice.com/assets/images/img_29-14920875312cf6af00e4efc7a5c887a9.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_30.png" src="https://lunatice.com/assets/images/img_30-3a6d71823739b251bbd7fb6be48f21f2.png" width="1621" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_31.png" src="https://lunatice.com/assets/images/img_31-68299237640917f5063b9451226fa064.png" width="1080" height="2339" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_32.png" src="https://lunatice.com/assets/images/img_32-4889e6cfd938097aba45eb1063a715da.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_33.png" src="https://lunatice.com/assets/images/img_33-b5286bddb4207e425be8445e727ee0a2.png" width="1080" height="1621" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_34.png" src="https://lunatice.com/assets/images/img_34-3a30f8958b79c8008c8a313db5f97207.png" width="1080" height="1844" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_35.png" src="https://lunatice.com/assets/images/img_35-6f09467e381db036e0cc2518e8332fbb.png" width="1080" height="1844" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_36.png" src="https://lunatice.com/assets/images/img_36-7b83586ba1704e6d0f680628daa602e4.png" width="1080" height="1844" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_37.png" src="https://lunatice.com/assets/images/img_37-273536e2f988dbe10b82d4327f23d46e.png" width="1080" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_38.png" src="https://lunatice.com/assets/images/img_38-78d43ca1400cfb37da4b1b4986727cf3.png" width="1080" height="1440" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="img_39.png" src="https://lunatice.com/assets/images/img_39-ebea4dfb2180c23cc80849e9abbadfa0.png" width="1080" height="1618" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【年终总结】2025 & AI & New]]></title>
+            <link>https://lunatice.com/blog/2025/12/30/2025/</link>
+            <guid>https://lunatice.com/blog/2025/12/30/2025/</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[转眼又到了年终，25结束啦（我的24也结束了）似乎还没取得什么成就，芸芸众生、不过尔尔......]]></description>
+            <content:encoded><![CDATA[<p>转眼又到了年终，25结束啦（我的24也结束了）似乎还没取得什么成就，芸芸众生、不过尔尔......</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="程序人生">程序人生<a href="https://lunatice.com/blog/2025/12/30/2025/#%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F" class="hash-link" aria-label="程序人生的直接链接" title="程序人生的直接链接">​</a></h2>
+<p>2025年要说最值得纪念的一件事那就是决定 ALL IN AI 了，在 AI 这个大时代背景下，传统的开发岗位已经被冲击得不成样子，所有的业务、所有的岗位都在
+积极的向AI转型。算得上是一个机会，好在公司内也在积极的做AI转型和探索，让我也有更多的机会去探索AI相关的领域。</p>
+<p>这段时间的感受，基础的前端UI开发，真的会被AI取代！整个开发的门槛还在降低，AI 通过自然语言理解，来实现 Coding，虽然在某些程度上代码质量不符合
+工程化的一个标准和要求，但是 AI 真的能很快实现你所通过自然语言描述的界面和功能。Cursor 这类 AI Coding工具真的在工作过程中提高了开发效率
+（但是价格也确实很贵 😂，PS：免费的模型不好用！！！！）</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="旅行人生">旅行人生<a href="https://lunatice.com/blog/2025/12/30/2025/#%E6%97%85%E8%A1%8C%E4%BA%BA%E7%94%9F" class="hash-link" aria-label="旅行人生的直接链接" title="旅行人生的直接链接">​</a></h2>
+<p>今年确实还是去了不少地方：天津、秦皇岛、</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="摄影人生">摄影人生<a href="https://lunatice.com/blog/2025/12/30/2025/#%E6%91%84%E5%BD%B1%E4%BA%BA%E7%94%9F" class="hash-link" aria-label="摄影人生的直接链接" title="摄影人生的直接链接">​</a></h2>
+<p>算是开启了我的第二职业？🤔</p>
+<p>用相机去定格岁月</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="规划人生">规划人生<a href="https://lunatice.com/blog/2025/12/30/2025/#%E8%A7%84%E5%88%92%E4%BA%BA%E7%94%9F" class="hash-link" aria-label="规划人生的直接链接" title="规划人生的直接链接">​</a></h2>
+<p><strong>做一年、看三年、想五年</strong></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【旅行人生】“阶段总结“-秦皇岛之旅]]></title>
+            <link>https://lunatice.com/blog/2025/10/01/2025/</link>
+            <guid>https://lunatice.com/blog/2025/10/01/2025/</guid>
+            <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[出发秦皇岛～]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="出发秦皇岛">出发秦皇岛～<a href="https://lunatice.com/blog/2025/10/01/2025/#%E5%87%BA%E5%8F%91%E7%A7%A6%E7%9A%87%E5%B2%9B" class="hash-link" aria-label="出发秦皇岛～的直接链接" title="出发秦皇岛～的直接链接">​</a></h2>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【旅行人生】“阶段总结“-天津之旅]]></title>
+            <link>https://lunatice.com/blog/2025/08/31/2025/</link>
+            <guid>https://lunatice.com/blog/2025/08/31/2025/</guid>
+            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[终于下定决心离开北京出去看看～看了看，北京到天津只需要半个多小时的高铁，于是我们果断选择这个周末出发天津！做了攻略：]]></description>
+            <content:encoded><![CDATA[<p>终于下定决心离开北京出去看看～看了看，北京到天津只需要半个多小时的高铁，于是我们果断选择这个周末出发天津！做了攻略：</p>
+<p>出了车站先去酒店放行李，然后就去第一站：意大利风情区；第二站：去看看世纪钟；第三站：五大道文化街；第四站：大梁子渡口；然后再前往滨海新区去看海，第五站：滨海图书馆；第六站：码头、亲海公园。</p>
+<p><img decoding="async" loading="lazy" alt="7464ddf8cf0896c7604dca7c478aff78" src="https://lunatice.com/assets/images/7464ddf8cf0896c7604dca7c478aff78-6f9b96caee05852b81cdfea304501535.png" width="3096" height="1502" class="img_ev3q"></p>
+<p>但是，<strong>计划总赶不上变化！！！</strong> 这句话是真理！真理！！！</p>
+<p>好巧不巧赶上天津上合组织峰会，中心区域戒严了，出了高铁站打车只能到戒严区边，我们下车步行到酒店。得知戒严我们一行人傻掉了，街上像样的饭馆都关门了，无奈之下我们就近找了家快餐店垫了肚子。商量了下，改变计划直接前往滨海新区......</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="天津之眼">天津之眼<a href="https://lunatice.com/blog/2025/08/31/2025/#%E5%A4%A9%E6%B4%A5%E4%B9%8B%E7%9C%BC" class="hash-link" aria-label="天津之眼的直接链接" title="天津之眼的直接链接">​</a></h2>
+<p>打卡"天津之眼"摩天轮，可惜没有开放。所以我们只是骑了单车过来拍了照就赶往高铁站前往滨海新区了。（主城区戒严了得晚上才放开）</p>
+<p><img decoding="async" loading="lazy" alt="df992f898046293d0405ff7a01fe30fe" src="https://lunatice.com/assets/images/df992f898046293d0405ff7a01fe30fe-2bd2556042faeb09e049ca9f22956a99.jpg" width="4096" height="2304" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="滨海公园">滨海公园<a href="https://lunatice.com/blog/2025/08/31/2025/#%E6%BB%A8%E6%B5%B7%E5%85%AC%E5%9B%AD" class="hash-link" aria-label="滨海公园的直接链接" title="滨海公园的直接链接">​</a></h2>
+<p>看了看海，天津的海并不好看，可能是我们去的时候天气不太好，天灰蒙蒙的海也并不蓝。</p>
+<p><img decoding="async" loading="lazy" alt="fdd2c0f659a9965e4f64e1fd280a81c8" src="https://lunatice.com/assets/images/fdd2c0f659a9965e4f64e1fd280a81c8-da1a4b82448448e766ce154752849120.jpg" width="1216" height="812" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="滨海图书馆">滨海图书馆<a href="https://lunatice.com/blog/2025/08/31/2025/#%E6%BB%A8%E6%B5%B7%E5%9B%BE%E4%B9%A6%E9%A6%86" class="hash-link" aria-label="滨海图书馆的直接链接" title="滨海图书馆的直接链接">​</a></h2>
+<p>第一眼确实很不错，建筑风格很有新意，不让带相机进入，很多人进来拍照打卡。</p>
+<p><img decoding="async" loading="lazy" alt="d455a7f3b2375539a62a9c738c7f2f0f" src="https://lunatice.com/assets/images/d455a7f3b2375539a62a9c738c7f2f0f-ac7c173975c311006f8677f6c306ab12.jpg" width="4080" height="2296" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="津城">“津”城<a href="https://lunatice.com/blog/2025/08/31/2025/#%E6%B4%A5%E5%9F%8E" class="hash-link" aria-label="“津”城的直接链接" title="“津”城的直接链接">​</a></h2>
+<p>晚上才回到天津主城（PS：又是冲冲忙忙赶高铁）</p>
+<p><img decoding="async" loading="lazy" alt="1fbb49bcb63396baa82e6bf2389fd11e" src="https://lunatice.com/assets/images/1fbb49bcb63396baa82e6bf2389fd11e-a494590696f0a4dbea14f6fb500da6ef.jpg" width="4096" height="2304" class="img_ev3q"></p>
+<p>打不到车，根本打不到车；想骑共享单车，根本找不到一辆，于是我们步行了好几公里回酒店......晚上，天津所有人都出来了，地铁站那是一个人山人海。</p>
+<p><img decoding="async" loading="lazy" alt="314ae29f8019cbdbda1a6e7bebc0e4b9" src="https://lunatice.com/assets/images/314ae29f8019cbdbda1a6e7bebc0e4b9-6eb1da589f2653dac87a45bbcce6a656.jpg" width="4096" height="2304" class="img_ev3q"></p>
+<p>晚上走回酒店我和我对象实在是不行了，于是我俩决定在酒店呆着哪儿也不想去。我朋友和他对象本着来都来了，出门看灯光秀去了。（由衷佩服他两的毅力）</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="意大利风情区">意大利风情区<a href="https://lunatice.com/blog/2025/08/31/2025/#%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A3%8E%E6%83%85%E5%8C%BA" class="hash-link" aria-label="意大利风情区的直接链接" title="意大利风情区的直接链接">​</a></h2>
+<p>周天一早我们一行人就前往意大利风情街，好在这里没有受到戒严影响，行人游客不少。</p>
+<p><img decoding="async" loading="lazy" alt="bdf49e06fb27e37f9b09e1783ba7ae33" src="https://lunatice.com/assets/images/bdf49e06fb27e37f9b09e1783ba7ae33-841beb04e0cf13291b94c3c3a82488ed.jpg" width="1620" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="dac2ec2eb09656d243ec328ab71754f8" src="https://lunatice.com/assets/images/dac2ec2eb09656d243ec328ab71754f8-63d0bc3bfd30c275e5df96874b0af821.jpg" width="1620" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="f2e1bfa59645f7f126024cee394633bb" src="https://lunatice.com/assets/images/f2e1bfa59645f7f126024cee394633bb-954c02faf991234fcb36aaa91d7d9cda.jpg" width="1620" height="1080" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="回京">回京<a href="https://lunatice.com/blog/2025/08/31/2025/#%E5%9B%9E%E4%BA%AC" class="hash-link" aria-label="回京的直接链接" title="回京的直接链接">​</a></h2>
+<p>想着第二天还要上班，于是我和我对象便准备提前回北京，我朋友和她对象则去听天津相声了。在吃过午饭后，我们便出发前往高铁站。有趣的事来了，我对象便想着把高铁票改签了，于是我们改到了一个更近的时间。当我们来到天津站，发现过了安检后进不了站，我打开手机一看她给改到天津西去了。于是我们又退票再买票回北京。</p>
+<p><img decoding="async" loading="lazy" alt="image-20251003212022015" src="https://lunatice.com/assets/images/image-20251003212022015-5722aa87d87b10badc22c1e55be54355.png" width="1298" height="594" class="img_ev3q"></p>
+<p>终于回到家，累得不行，总结两天的行程都在赶高铁......</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结“-安危相易]]></title>
+            <link>https://lunatice.com/blog/2025/05/05/2025/</link>
+            <guid>https://lunatice.com/blog/2025/05/05/2025/</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[好久没有坐下静下心回顾过去一段时间内发生的事以及经历过后的感想。今天趁着五一假期的机会细细盘一盘过去这段时间内的点点感悟吧......]]></description>
+            <content:encoded><![CDATA[<p>好久没有坐下静下心回顾过去一段时间内发生的事以及经历过后的感想。今天趁着五一假期的机会细细盘一盘过去这段时间内的点点感悟吧......</p>
+<p>记得上一次的阶段总结停留在了24年的11月底。当初计划的是每月月底会抽出时间来进行一次深度的回顾与阶段总结，但是计划总赶不上变化（拖拖拉拉，犹犹豫豫，下次再记录等等导致了迟迟没有打开编辑器），但上周末以及上上周末确实连续加了两个周末的班（PS：苦笑）连续上了16天班（项目攻坚ING），终于赶在节前完成了项目上线的任务。在这个过程中遇到了很多的困难，但也收获了不少成长。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="危25年面对的挑战自我困境">【危】25年面对的挑战：自我困境<a href="https://lunatice.com/blog/2025/05/05/2025/#%E5%8D%B125%E5%B9%B4%E9%9D%A2%E5%AF%B9%E7%9A%84%E6%8C%91%E6%88%98%E8%87%AA%E6%88%91%E5%9B%B0%E5%A2%83" class="hash-link" aria-label="【危】25年面对的挑战：自我困境的直接链接" title="【危】25年面对的挑战：自我困境的直接链接">​</a></h2>
+<ul>
+<li>想得太多，做得太少！</li>
+</ul>
+<p>总在想而疏于行动，总想得而远疏于眼前。想法很多，生活中时不时就会蹦出一两个点子，但是仅仅是蹦出来，然后就开始过度思考，最终不了了之。总是在遇到新领域知识是计划学习，但是往往只是计划，计划后就不了了之。热情只有三分，剩下七分借口......做得太少的本质还是懒字当头！下班后只想躺着，刷刷短视频，全身上下唯一需要动的就只有大拇指了，娱乐至死的道理都懂，但是真正能杜绝的又有几人？</p>
+<ul>
+<li>总在试，少有结果！</li>
+</ul>
+<p>总不断的尝试着探索新领域以寻求新突破，然而在自己熟悉且擅长的事上却没有拿得出手的成绩。总以为只要不断尝试新东西就能一直保持竞争力，然而才发现只是重复的在不同领域里入门，甚至都没有做到熟悉，更加谈不上结合了。总是在自我感动，并没有真正的产出结果。过去我一直是一个过程主义者（只要经历过总有收获），但是现实往往是结果导向（没有结果的努力往往是浪费时间与精力）。</p>
+<ul>
+<li>闭门造车，自我感动！少有输出，疏于沉淀！</li>
+</ul>
+<p>总以为自己在路上就只需要不断向前就行，忘记时常需要停下望望来时路，看看是否还在正确的航线上......总是自己一个人在想，也时常认为自己提出的想法，给出的答案才是合理的正确的，自我感动与满足，却忘记了：人外有人，天外有天！况且自己也只是芸芸众生，自己也只是普罗大众。</p>
+<p>满足于自己的感动，却少了思想上的碰撞，少了与他人交流学习。即使见过了很多风景，却没有真正留下些什么。虽然那句：见过就好了，剩下回忆就好。听着洒脱却忽略了岁月的威力，很多往事随着年龄的增加慢慢的就遗失在了年轮之中......</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="安25年一定要做的事积累财富">【安】25年一定要做的事：积累财富<a href="https://lunatice.com/blog/2025/05/05/2025/#%E5%AE%8925%E5%B9%B4%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B%E7%A7%AF%E7%B4%AF%E8%B4%A2%E5%AF%8C" class="hash-link" aria-label="【安】25年一定要做的事：积累财富的直接链接" title="【安】25年一定要做的事：积累财富的直接链接">​</a></h2>
+<p>25年一定要积累财富！当然这里的财富是指是指广义上的财富，不单单指金钱。</p>
+<ul>
+<li>能力沉底，技术输出</li>
+</ul>
+<p>在自己熟悉且擅长的领域里再试着向前走一步！梳理自己出能力范围，阶段性总结，做优质内容输出！做好规划，踏实履行，人生漫漫旅程大胆的分享！</p>
+<p>今年一定要完成内容沉淀与输出：【零基础架构之旅】、【零基础设计模式之旅】</p>
+<ul>
+<li>想法沉淀，思考碰撞</li>
+</ul>
+<p>记录自己的想法即使很离谱即使很中二，但那也是人生某个时刻所感。大胆的去表达，去接受质疑去接受挑战！遇到问题与挑战时，大胆去面对去解决，即使过程是困难重重。给自己的一个期待，敢于去表达敢于去争取，去获得更多成长，脱下长衫，直面现实！</p>
+<hr>
+<blockquote>
+<p>PS：最近在看【凸变英雄X】很喜欢里面的一段台词：</p>
+<p>何为英雄？是黑暗中的一道光，是危难关头的救世主，是我们心中完美的那个他。在这个由信赖值缔造英雄的时代，人人开创英雄，人人也皆可为英雄！</p>
+<p>加油！做父母的英雄！做孩子的英雄！做她的英雄！做自己的英雄！！！去撑起他们的一片小小天地！</p>
+</blockquote>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/e4f9552b5e8ae6e85d8ffc5291c641ba-f952aa352c9af7b09ff703704def5c83.png" width="1440" height="723" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结“-前路茫茫]]></title>
+            <link>https://lunatice.com/blog/2024/11/30/2024/</link>
+            <guid>https://lunatice.com/blog/2024/11/30/2024/</guid>
+            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[img]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/160236e16d6d473d843a3b6ad085d086-abd40924ddfcdb13611947d9dceda817.png" width="1600" height="900" class="img_ev3q"></p>
+<p>岁月如白驹过隙，如指尖流沙，不知不觉已经离开了陪伴我度过四年岁月的学校，离开了那间堆满各种书籍的宿舍，离开了通宵开发的实验室，离开了教室里的最后一排课桌椅......（虽然，我并不是很喜欢它，可当真正要离开的时候还是会有那么一点伤感）一个人坐上飞机，来到了一千多公里以外熟悉而又陌生的城市。熟悉是因为这是首都，陌生是因为第一次踏足......</p>
+<p>离校的那天下午，下起了下雨，淅淅沥沥。家里刚提了新车，我爸不熟练的驾驶技巧，也来帮忙搬我的行李（大部分是一些心血来潮是买的书，买来后基本上也就没有再翻开......）。一个人上上下下跑了四五趟，终于搬空了宿舍床位旁的床头柜和书桌架，一瞬间的空荡荡反而不那么习惯了。那天下午正好是毕业典礼，糟糕的心情，不太想去参加这样的典礼，再见也只不过是陌生人，也许再也不见......想再走走以前上课下课走过的那段路，但似乎被时间催着快点向前走了，也没有给我机会再去回顾我走过的人生旅程。我们都是被岁月卷走的人，边走边遗忘......就像那把坐了四年的电脑椅，带不走却也舍不得，只能遗留在那间再也回去的宿舍了。那张单人床如今想来硬硬的却也睡过了四年，那个小小书桌书本一放亦是四年，一台笔记本电脑记录了我四年的成长，虽说没有什么成绩，但也有所成长......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/88600580f2ba4fbfa1c9861eb1eee222-59f53ed8982efded4c0d3ccc84e5b110.png" width="1507" height="637" class="img_ev3q"></p>
+<p>恍恍惚惚，来到这里已经临近半年了，告别校园也临近半年。还记得那个下午，阳光明媚大家在第四教学楼前集合列队，快门按下的那一瞬，我们的青春就定格在了那一刻，朋友们如今已经各奔天涯，也许是见得最后一面，各自开启了各自新的人生篇章，而我也奔赴向我未完的旅程。</p>
+<p>唉，现在总是稀里糊涂的过着日子，重复着枯燥且乏味的生活，公司，出租屋，公司，出租屋......经历了酷暑，寒冬将至，短袖也换成了棉服，北方已经开始使用了暖气，真是很不幸运的是合租里唯一一间暖气坏掉的房间，好在并不是很冷。开始慢慢规划自己的作息，调整自己的生活节奏，注意饮食，希望能从中找到一点意义。一个人总是有很多的时间去思考（嗯......胡思乱想），作为INTJ总是容易沉浸在自己的幻想世界中，当抽离回来面对真实世界时，巨大的落差感把我击碎。这个世界并不是那么美好（也许是我没有发现他的美好）。越长大越觉得世界越复杂，它并不纯粹，我更喜欢小时候记忆中的那个样子，不大不小，刚好容下我对它的幻想。</p>
+<p>世界是一个巨大的草台班子！也许并不是没有道理的......</p>
+<p>不过也无所谓了，平凡且渺小的我又能做些什么呢？在高楼的夹缝中勉强生存已经是我的极限，无法成为站在楼顶的人，最终能保持自己最后一点点对世界的质疑已是我最后的用尽全力的倔强。嘿，前面起雾了，你还能看得清吗？</p>
+<p><img decoding="async" loading="lazy" src="https://i-blog.csdnimg.cn/direct/6c290863735f418e9c39bd344f854230.png" alt="img" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结“-雨过天晴]]></title>
+            <link>https://lunatice.com/blog/2022/12/02/2022/</link>
+            <guid>https://lunatice.com/blog/2022/12/02/2022/</guid>
+            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[一晃又是几个月过去了，依稀记得上次写阶段总结还在学校。因为疫情的原因似乎还不能返校。一时间也不知道怎么说，还记得上次回家还是在临近春节假期，那一走就是半年......]]></description>
+            <content:encoded><![CDATA[<p>一晃又是几个月过去了，依稀记得上次写阶段总结还在学校。因为疫情的原因似乎还不能返校。一时间也不知道怎么说，还记得上次回家还是在临近春节假期，那一走就是半年......</p>
+<p>我的大学四年，已经在疫情中度过了两年。别人的大学生活是满世界的乱跑，而我的大学生活只有三点一线，不是在去工作室的路上就是在去食堂的路上，宿舍除了休息时似乎也不是很想继续呆下去。虽然关系谈不上很好，偶尔能聊两句。目前也不太想把太多的精力和时间花费在人际交往上。说实话，人际交往上我确实是一个白痴，慢慢学吧！大学生活和我想象的不能说一样吧，只是毫无关连，我深刻体会到了什么叫理想很丰满，现实很骨感！</p>
+<p>暑假，经管楼，工作室，晚饭前，我们总要等到太阳快落山时去吃晚饭，傍晚的风还带着这个夏天的温度，天很蓝很深远，光线穿过云层散射出来，</p>
+<p>暑假两个月的时间转瞬即逝，恍惚之间已经记不清那段时间我都做了些啥......可能啥事也没做成吧。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/0e73798994711fc5662a6d90fe91113e-0df836b2b178a9530b038e3c299a2759.jpeg" width="1080" height="595" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结“-不甘平凡]]></title>
+            <link>https://lunatice.com/blog/2022/07/27/2022/</link>
+            <guid>https://lunatice.com/blog/2022/07/27/2022/</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[img]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/format,png-f14b276072d876657ec6bd9962787534.png" width="640" height="353" class="img_ev3q"></p>
+<p>又到了一年一度的开学季了，又有很多很多不论是怀揣希望或者失望来到这个地方。很感慨，前年，我似乎也是这样，憧憬着校园生活，很多美好，认识更多的人，去很多的地方，见识更多更多的风景。</p>
+<p>事实上，这些都是都是停留在没上过大学人的眼中，和大学的招生简章和宣传视频里面，至少，我经历的是这样。我不能一概而论，但总是有人觉得学计算机的就是比经管强（PS：他还是个经管的......），我不知道他的想法，也没有太多心思和精力去弄懂他在想什么。我告诉他专业之间没有太多可比性，你在经管一样的可以学习计算机，甚至你可以比计算机里的部分同学学得更好，当然是你要付出应该付出的足够的代价。又有谁能说得准学计算机的就一定是去做开发嘛？学经管类专业的同学就一定能做管理吗？</p>
+<p><img decoding="async" loading="lazy" alt="img" src="data:image/jpeg;base64,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" width="400" height="224" class="img_ev3q"></p>
+<p>我觉得认清现实，认识自己才是最重要的，与其去纠结自己的已经定下的录取通知是不是自己向往的专业，还不是静下心来踏踏实实学习，比一切都重要。</p>
+<p>大学没有那么多好看的风景，也没有那么多的宣传片里的美好生活，只有大大小小不同的专业课程，各种复杂的人际关系，奇奇怪怪的各种活动，以及一些浪费时间的比赛......</p>
+<p>真正厉害的人早就做好了计划，而真正有准备的人也不会在这个学校有机会和我这样的人相遇。因为，他们值得更好的。而我只是不甘于在这样的环境里继续堕落，和我的室友一样在宿舍里打游戏直到现在，嗯，12点过4分，当然这是凌晨，不是中午。我只是想说一个人生态度，谁都不甘于平凡，可谁又为自己平凡的一生挣扎过呢？</p>
+<p>写这篇博客不是想强迫谁，也不是为了谁，更不是为了发泄情绪，只是颇有感触。既然，你心里就笃定经管一定比计科差，那为什么你不是去证明或者改变你是一个经管学生的身份，而是在这里和我争辩两个不同领域专业的好坏，我很不解，也很疑惑。这有所谓的可比性？</p>
+<p>认清自己才是最重要的，说到底自己才是最重要的，这世界上除了亲人（其实，说这话也没有什么底气，也有太多亲人之间的反目成仇的），那就大胆的说，这世界除了你自己会对自己好，没有任何一个人能百分之百保证对你是无私大爱。利益面前，人性很难经得住考验。这才是社会的现实。别再对着大学生活有着多么多么炙热的幻想，只有学不完的东西和完成不成的作业。</p>
+<p>只是，记得无论做什么样的觉得，别亏待自己就好！你就是那一个特别的人！加油！早点休息，今天也要继续加油！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/0f54210c49dc3705a248d20584668bfb-1bb1a0f0b5cecb9e854503fc4eed165d.jpeg" width="690" height="406" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结”-不知所措]]></title>
+            <link>https://lunatice.com/blog/2022/06/05/2022/</link>
+            <guid>https://lunatice.com/blog/2022/06/05/2022/</guid>
+            <pubDate>Sun, 05 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[时隔好几个月没有发博客了，排名也从几千跌出了一万，哈哈哈！不过也无伤大雅，我这不是回来了吗？这几个月收获了不少，但是也摆烂了很久，遇到了许许多多的事。学习真的是一件非常让人疲惫的事，但是又是一件让人欲罢不能的事......]]></description>
+            <content:encoded><![CDATA[<p>时隔好几个月没有发博客了，排名也从几千跌出了一万，哈哈哈！不过也无伤大雅，我这不是回来了吗？这几个月收获了不少，但是也摆烂了很久，遇到了许许多多的事。学习真的是一件非常让人疲惫的事，但是又是一件让人欲罢不能的事......</p>
+<hr>
+<p>人的一生中，真的真的有太多事，是我们无法决定的。我们都是身不由己，我们都是被迫在做着一些我们不愿意，又不得不去做的一些事。</p>
+<p>很多时候，你想做的未必就是你能做的。你能做的未必就是你想做的。我们都很矛盾，我们做着我们不想做的事，目的确实为了有一天去做我们能做的事。可是，会不会有那么一天，突然就是那么一瞬间，你想做的事，突然就不想做了。你发现人生似乎好像没有什么追求的了，仿佛就那一瞬间，你会想我是为了什么呢？重复着单调乏味的生活，为了一点所谓的回报或者是一点安慰，去完成任务。我现在想想自己真觉得可悲可怜。唉......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/126091a7d76c0265e5d7bdf67c8ba4d3-20cff13abc4f874b892bda1830322b6c.jpeg" width="510" height="286" class="img_ev3q"></p>
+<p>突然一瞬间的迷茫，突然不知所措，不知道未来该怎么去选择，属于我的路到底是哪一条，我该怎么选......我发现我身上真就没有属于年轻人的朝气和勇气。可能是我想得太多做得太少。我不敢去尝试未知，总想着结果如何如何，忽略了一路上的风景，和一路上的人。</p>
+<p>悲观的人，总是不回去期望一个好的结局。因为，如果结局就是坏的，那么他们就会早有预测，如果解决是好的，那么惊喜和快乐会更多吧！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/d5fde9f9f48b9a9c72c3f3808335f1e6-c22a28fad3f995a8df84fbad6c46146b.jpeg" width="700" height="394" class="img_ev3q"></p>
+<p>不知所措，不知何往！</p>
+<p>但是，不管如何，所有的选择都已经注定，未来还是在自己的脚下，所有的路还是都需要自己去走，与其在这里多愁善感，还不如背上书包去一个新的地方，去学习去走走看看。往事不堪回首，那就让现在的你别失败得太彻底！加油！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结”-不论过往]]></title>
+            <link>https://lunatice.com/blog/2022/03/21/2022/</link>
+            <guid>https://lunatice.com/blog/2022/03/21/2022/</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[img]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/ffa556f0bda98bb52a88d4252f51ebb9-5d4911278e3a812edb393a4e68a6a92f.png" width="1920" height="1080" class="img_ev3q"></p>
+<p>今天，嗯......准确点是昨天，因为已经过了12点了，我经历了人生的第一次答辩。虽然是在线上，但是也是第一次参加比赛，第一次进行答辩，第一次带队打比赛......很多第一次，虽然准备过程十分艰难，也想过逃避和放弃，但是：“机会和困难是并存的，如果有一天困难没了，机会也就没了！！！”，给了我很大的力量，后面我们团队还将继续打磨项目，同时，我也发现了自己更多的不足......</p>
+<p>人生中总有太多次，但是只要经历过了，其实也就对它无所谓了。其实未经历过的那种出于人对未知恐惧的感觉就荡然无存！嗯！趁现在我还能熬夜修改PPT和过策划书，趁现在我还能在凌晨12点多接近1点的时候还能坐在电脑前码字，趁我还有激情还有热情，想做并且能做的岁月中，做出那么一点点小成就！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/8183ac4e6edfeec1af1ededc48b81fd3-b32960b7e326aeab68806556e619d453.png" width="1000" height="562" class="img_ev3q"></p>
+<p>世界上厉害的人太多了，而我只是普通人中的普通人，我只是怀揣着对技术的执着追求，热爱，的平凡于平凡。可能穷我这一生也无法改变这个世界，但是如果，我想有人或许能看到我这篇不伦不类的博客是会对他或她产生一点点触动，或许我的目的就达到了。</p>
+<p>我多么希望能有一群学习技术的人，我们不分彼此，敞开心扉，交流技术，以及我们那傻傻想用代码改变是世界的期许或是初衷。带着那份偏执与孤高站在一点。看着世界一点一点变得更好！</p>
+<p>虽然，我只是一个，一个普普通通的学生，甚至没经历过社会的毒打，只是安稳的坐在大学的宿舍里，对着电脑屏幕痴人说梦。没经过这所谓的现实！总有人会用的他们的言语或者行动来阻止或者劝告你，你不行！你不可以！！你做不到！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/10cc49acfd9114c82c4004f718b5aeae-5213979093d6de91b7d6e484310a1fb6.png" width="1000" height="562" class="img_ev3q"></p>
+<p>我想告诉你的是，没有什么可以或者不可以，也没有行与不行！只有你想或者不想！！！我看到这样一段话：当你面对一件东西买还是不买的时候，不买；当你遇到一件事，你犹豫要不要说的时候，不说；当你决定一件事情做还是不做的时候，做！！！只有行动才会带来改变，空想并未意义，百日做梦谁不会，当梦中惊醒，被逼无奈的时候，你就会后悔，为什么当初我们做......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/4b937a949ed9c460312d20a4ae20b860-1372d8fe00f3b491347ff79455af0d4b.png" width="1000" height="562" class="img_ev3q"></p>
+<p>多做少说，少说多做，能不说就不说，能不做就不做，别去攀比，也别去拿着未取得的成就去炫耀，低调做自己！情绪未必要表现在脸上！做人期望自己能做到心如止水！！！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结”-归来仍是少年]]></title>
+            <link>https://lunatice.com/blog/2022/03/03/2022/</link>
+            <guid>https://lunatice.com/blog/2022/03/03/2022/</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[img]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/3201f4d5a09ebffbae0f3a6c2d35481d-1b78ace0ee092d3f780d5c8a552ec34d.png" width="885" height="438" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一人生恍惚">一、人生恍惚：<a href="https://lunatice.com/blog/2022/03/03/2022/#%E4%B8%80%E4%BA%BA%E7%94%9F%E6%81%8D%E6%83%9A" class="hash-link" aria-label="一、人生恍惚：的直接链接" title="一、人生恍惚：的直接链接">​</a></h2>
+<p>恍恍惚惚，又是一年，恍恍惚惚又是一个寒假......时间过得好快好快呀，就在你逐渐意识到它存在的时候，它就已然悄悄溜走......当你意识到它已逝去的时候，为时已经过晚......</p>
+<p>过去的就让他过去吧，无需缅怀，也无需后悔，毕竟那已是过去。只是期望自己能一如既往的努力下去，人生短短几十载，我已经浪费了五分之一了吧......想想看自己也快21了。不知道从20岁那年幡然醒悟，决定未来好好规划咸鱼翻身的我，在这一年中成就了些什么......</p>
+<p>踏上编程这条路我从未后悔，未来也将继续前行，用代码去编制世界！这是我的初心，希望当未来的某一天，当我再次看到这句话时，希望我仍是初心不改，归来仍是少年！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/9bba88bac4220d465120b06e871a18bb-5dd218ef63c231395b44af4f7ed96722.png" width="1451" height="760" class="img_ev3q"></p>
+<p>总是心有不甘，总是在追逐着什么，可是这个什么是什么呢？？?我自己也说不上来......昨晚写了一点，最终还是被睡意打败，是呀！我似乎一直在被什么东西打败，可以说是一败涂地吧。合上笔记本，真正躺下的时候，却又辗转反侧睡不着了......</p>
+<p>似乎今天的任务没有完成！似乎明天也会有很多任务和安排...似乎今天也没什么成就吧......为了逃避，我还是拿起手机，刷起了视频，不知不觉12点...1点...疲惫伴随不安再次袭来，这次我放下手机，睡着了.......</p>
+<p>唉，最近似乎忙起来了，可是却又不知道在忙些什么，说不上来这算不算得上是充实，只知道自己的日程表里总是有任务......早八，睁开眼的时候头似乎有点痛，昏昏沉沉，后悔昨晚没有早点休息（其实很多次早上醒来都会这样后悔，但是还是会去刷视频......）。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/40b97004c9805ef2a8eb7519395d4758-69fe91f8e97d14c94506ee996e7e8044.png" width="1071" height="600" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二晃晃少年">二、晃晃少年：<a href="https://lunatice.com/blog/2022/03/03/2022/#%E4%BA%8C%E6%99%83%E6%99%83%E5%B0%91%E5%B9%B4" class="hash-link" aria-label="二、晃晃少年：的直接链接" title="二、晃晃少年：的直接链接">​</a></h2>
+<p>一晃眼已经是中午了，又换辅导员了，说来也是神奇，一年多换了两个辅导员......不过也没啥关系，基本没啥影响。春天来了，还是容易犯困，上课也没有什么精神。选择了坐在最后一排，马克思主义基本原理.......这样的课，对于像我这样的码农这种课貌似显得没什么营养了。</p>
+<p>项目也搁置住了，卡在了登录注册，一个死活解决不了的空指针问题......我人也是傻了。最近也有很多比赛想去试试......要做的事总是特别多。现在居然开始担心我的身体是否能扛得住了？？？唉......</p>
+<p>未来不可知，至少现在还有时间和精力去闯一闯，尝试更多未知，探索更多未知， <strong>现在能做的就是期待未来，不负当下了吧！！！</strong></p>
+<p>不知道该说些什么了...期待明天更好吧！</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结”-且行且珍惜]]></title>
+            <link>https://lunatice.com/blog/2022/01/31/2022/</link>
+            <guid>https://lunatice.com/blog/2022/01/31/2022/</guid>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[一、感叹于世界之大：]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一感叹于世界之大">一、感叹于世界之大：<a href="https://lunatice.com/blog/2022/01/31/2022/#%E4%B8%80%E6%84%9F%E5%8F%B9%E4%BA%8E%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%A7" class="hash-link" aria-label="一、感叹于世界之大：的直接链接" title="一、感叹于世界之大：的直接链接">​</a></h2>
+<p>越是长大，越觉得世界变了样......</p>
+<p>小时候，我的世界就是我们那个村子......逛竹林，爬桑树，在农田里追逐......一天时间那么长，一天的精力那么旺盛，没有那么多的烦恼，每天睡醒起来特别早，每天休息得也特别早。 无忧无虑。
+总是期待着能快点长大，不再能被父母束缚，不再去到学校和三四十人挤在一间教室，不用再背诵无聊的课文。我可以每天呆在家里看电视，玩游戏......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/897fbb950a894c173964f6e047d0444d-68bebf396a7aae65c249e98c3afab1ba.png" width="587" height="381" class="img_ev3q"></p>
+<p>再长大一些，我的世界就是我们的城市......终于可以一人出远门，公交车上一个人坐在最后一排看着窗外发呆。
+一个人总是习惯性的胡思乱想。慢慢就喜欢上了坐公交车的感觉了，我可以漫无目的思考，但是总是在前往目的地的路上。
+自我安慰着我的时间并没有被浪费。终于，慢慢时间观念深入我的心里。时间呀，一旦有了这个概念之后，他仿佛就开始加速向前去了。每天上课下课，时间没过去多久的感觉，就是一天了，走出教学楼时，天色早已暗淡。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/2f5992c20eb7be677145a79bba4e2095-0eeface9f822e88315f297e6da23167d.jpeg" width="931" height="634" class="img_ev3q"></p>
+<p>而现在，电脑桌前一坐就是一整天了......愈发不想出门，想见的人只有那么几个，不喜欢热闹，更多的时间只愿意和在乎的人分享了，不太习惯去复合他人，只想做自己！
+原来在这个世界上，我如此渺小，根本改变不了什么......我们只是活着罢了......</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二惋惜于烟花易能坠落">二、惋惜于烟花易能坠落：<a href="https://lunatice.com/blog/2022/01/31/2022/#%E4%BA%8C%E6%83%8B%E6%83%9C%E4%BA%8E%E7%83%9F%E8%8A%B1%E6%98%93%E8%83%BD%E5%9D%A0%E8%90%BD" class="hash-link" aria-label="二、惋惜于烟花易能坠落：的直接链接" title="二、惋惜于烟花易能坠落：的直接链接">​</a></h2>
+<p>我所坚持的就一定是正确的吗？总有太多迷茫和烦心事......</p>
+<p>早上醒来已是十点，今天是大年三十，又是一年，但却没了过年的感觉。电商平台的新年活动倒是不少，给我发来第一个祝福的是人寿保险，想见的人不在身边，太多想做的事没做，想实现的梦没有实现。从学校回家，总算是找补回了一丝温暖，至少三餐有了保证......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/6bd9c005bfc1b9cdd14511d72a9e9f24-9971047fa8743ab68e544f6ad4e6af94.jpeg" width="1080" height="608" class="img_ev3q"></p>
+<p>嗯！因该好好规划一下年后的安排！那些不必要的人际关系是时候斩断了，重要的还是需要自己强大起来！好好照顾自己的身体。原来的祝福是万事如意，现在变成了身体健康。人不在了，再多的钱又有什么用呢......我们还是太脆弱了！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/87ab221ded27e1971234bf67ffd74200-f8bb250ae55b6f7aadab510eef0a0c8d.png" width="681" height="372" class="img_ev3q"></p>
+<p>算了，算了，切行且珍惜！新年快乐！！！辞旧迎新，期望来年更好！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/56dbae1db4ce23c6897f93ddcf7e6d74-1bb1a0f0b5cecb9e854503fc4eed165d.jpeg" width="690" height="406" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结”-不甘雌伏]]></title>
+            <link>https://lunatice.com/blog/2022/01/11/2022/</link>
+            <guid>https://lunatice.com/blog/2022/01/11/2022/</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[img]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/924d52342f25d48fe2d603ec046fce4c-170b7e5052587826d2cb8858a333f0fb.jpeg" width="1200" height="676" class="img_ev3q"></p>
+<blockquote>
+<p><strong>过往已是事实，无须懊悔；未来还未到来，无须顾虑；唯有珍视当下，把握当下所能把握的，珍惜现在所能拥有的......</strong></p>
+</blockquote>
+<p>终于快要完成所有学科的期末考试了，大二上的这半年，是我最辛苦，最忙碌的一段时间了。今天成功考完了“概率论&amp;数理统计”，也成功的挂掉了（呜呜呜呜呜呜呜呜呜呜...😭😭😭），这估计会成为我第一次挂科了......不知道会不会对我未来的发展产生特别大的影响...果然平时还是不能太过于划水了......</p>
+<p>唉😔，事已至此，唯有寒假加油了！！！要把偷的懒全部补回来了。</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一忙碌绝望">一、忙碌&amp;绝望📝<a href="https://lunatice.com/blog/2022/01/11/2022/#%E4%B8%80%E5%BF%99%E7%A2%8C%E7%BB%9D%E6%9C%9B" class="hash-link" aria-label="一、忙碌&amp;绝望📝的直接链接" title="一、忙碌&amp;绝望📝的直接链接">​</a></h2>
+<p>后天，考完最后一堂考试，将结束2021年-2022年学年上的学习。我不能说完美结束，因为概率论大概率会挂课了吧，毕竟好多题都不会（平时花时间还是太少了）......唉😔，等到21号，成绩出来就知道结果了，我看淡了，毕竟结果已经十分明显了......</p>
+<p>就这几天，天天熬夜复习，内心的煎熬，以后还是要在平时安排好学习时间，不能把希望寄托在期末复习了，这样真的太难熬了！！！下学期一定要安排好学习时间，不能重蹈这学期期末的覆辙了。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/5ac454bcdddf005417dfb69a8f6e327b-80ea137f21ebbf0aba76922530299744.jpeg" width="1080" height="2400" class="img_ev3q"></p>
+<p>哈哈哈，估计没有人会比我的课多了吧......🤣</p>
+<p>几乎每天都是忙着上课，学习编程，我几乎不怎么玩游戏，唉😔！可能确实是因为我自身的问题，确实感觉忙忙碌碌，也确实碌碌无为......无论是学业还是编程能力似乎都没有等到很大的提升，绩点年年都在下降，期末也是复习得稀里糊涂的......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/94cd158d4daaa8d37529508ae1f487e5-39c5a04c2db74f55743caca67956d98c.jpeg" width="1080" height="2400" class="img_ev3q"></p>
+<p>一个星期几乎是天天考试，我也几乎是天天熬夜复习着。焦虑，不安，恐惧......我一度因为这些考试还睡不着，虽然十分疲惫了，但还是不能安稳入睡。</p>
+<p>我认真反思了原因：还是平时时间安排的问题，没有权衡好对课程学习和编程学习的时间投入了！认真总结了以下问题：</p>
+<ul>
+<li>浮躁！！！学习时，不能集中精力在当前的学习任务上，容易受到别的事情干扰，无法深入思考，达到一个很好的学习状态</li>
+<li>学习还不够系统和深入！看似学习了很多东西，但是很多都只是学习了皮毛，没有深入到核心，没有理解原理和思想上的领悟。没有自己的思考和理解以及运用实践太少！</li>
+<li>总结和提炼的东西太少！没有形成自己的知识体系，很多内容都是零散的，缺乏一种能激发创造的知识体系和思维！</li>
+<li>时间规划和安排，对事情的轻重缓急拿捏不准，很多时候往往是当前紧急且必要的事放着不做（拖延！！！），做一些需要长远安排和规划的事（对于当前毫无意义！！！）</li>
+<li>不够自信！！！总是自我否定，不敢轻易尝试，对于未知探索的畏惧（畏惧心理）</li>
+</ul>
+<p>好吧，还有很多小问题需要不管改正，希望接下来的一个学期能够做出改变，然后安排好自己的学习和生活，不断进步吧！加油！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/07c753ed96818dba7778c8cf34c73d7b-a628817d30637e1f7f58b7fd78da65b7.png" width="1153" height="578" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二坚持加油">二、坚持&amp;加油⏳<a href="https://lunatice.com/blog/2022/01/11/2022/#%E4%BA%8C%E5%9D%9A%E6%8C%81%E5%8A%A0%E6%B2%B9" class="hash-link" aria-label="二、坚持&amp;加油⏳的直接链接" title="二、坚持&amp;加油⏳的直接链接">​</a></h2>
+<p>不管怎么样，也不管未来会发生什么，无论是好是坏。我，至少还活着，至少我还可以继续努力，至少我还可以改变，至少我还在努力，至少我还有时间和机会去改变，去搏一个我想要的生活。期望有一天那个童话可以成为现实，我能牵着我爱的人的手，走完这一程！！！</p>
+<p>寒假的时间，尽量都留给自己提升吧！那糟糕的英语，那废物的数学.......还有那一生都值得去奉献给他的Coding......对了，别忘记在忙碌的生活中留点时间给阅读......哦哦，还有读书笔记（还是以博客的方式推送吧，哈哈哈，有时间公众号同步更新......）</p>
+<p>2022年，别再花费大量的时间在动漫和游戏上了，你已经20岁了，不再18（虽然希望永远18），你需要对你负责，你需要对家人负责，你需要对她负责......所以，你不能输！！！</p>
+<p>至少，别输得太狼狈！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/8cea59bf8d9334a1515e06ec4cb0dad0-388d8fa28ad1996c3d47c23c16760f4c.jpeg" width="640" height="360" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“2021年终总结“-后会无期]]></title>
+            <link>https://lunatice.com/blog/2021/12/28/2021/</link>
+            <guid>https://lunatice.com/blog/2021/12/28/2021/</guid>
+            <pubDate>Tue, 28 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[一、历程📅：]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一历程">一、历程📅：<a href="https://lunatice.com/blog/2021/12/28/2021/#%E4%B8%80%E5%8E%86%E7%A8%8B" class="hash-link" aria-label="一、历程📅：的直接链接" title="一、历程📅：的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/69deff65415a2329c1e6d4784abf5abf-e640df09bf28c3a10d31ea5dccfd004a.jpeg" width="650" height="368" class="img_ev3q"></p>
+<p>从啥也不知道的一小白，到第一次接触计算机，再到学习如何编写一个Hello World，再到入门，了解这个领域，认识了许许多多的大佬......</p>
+<p>2021年，经历了很多，收获了很多...一年的成长，终于明白了自己真正的想要，也再次认清了自己。经历和感悟要慢慢写，就像人生的篇章只有一笔一划才能写得明白，写得清楚。而不是等到人老恍惚时，到都来发现自己苍白的人生，后悔曾几何时我也年少轻狂，遗憾的是却没留下点什么，值得纪念......</p>
+<p>从第一篇文章，到第100篇，未来还会有更多。坚持不断地去努力，做自己想做的事，不要去在意别人的眼光和看法，我有我自己的主张，坚持自己喜欢的，做一个自私的人没什么不好，我本就不是度世人的菩萨，也不是救赎别人的上帝，我就是一个普通人，在普通而平凡的生活中去找寻一点属于自己的快乐！</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1创作️收获">1.创作✏️&amp;收获🍬：<a href="https://lunatice.com/blog/2021/12/28/2021/#1%E5%88%9B%E4%BD%9C%EF%B8%8F%E6%94%B6%E8%8E%B7" class="hash-link" aria-label="1.创作✏️&amp;收获🍬：的直接链接" title="1.创作✏️&amp;收获🍬：的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/3d2f0ae2c30b226a1893329474f8387d-17314fefe57bf105b3ac69db901e5afb.png" width="1170" height="260" class="img_ev3q"></p>
+<p>从第一次注册github后提交，到越来越多的提交，编写越来越熟练的代码，是这一年的历程</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/0886793494cfd9ea784e55231bb7490f-7e00cbbf3e7a880e47bf00f94e07cd18.png" width="1462" height="825" class="img_ev3q"></p>
+<p>从最初的0粉丝0阅读慢慢涨到10到100到1000，也许以后还会慢慢变多吧，（我会努力写作滴，啊哈哈哈），这是一年的历程。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/1929d2f73072060994464cde160649e2-fd3e4cc6573f70fb1ad0db7ee9ec20cd.jpeg" width="1920" height="1080" class="img_ev3q"></p>
+<p>当然这也是有收获的一年（还有些奖品没有拍到），虽然在客观上并不值多少钱，但是十分开心付出后得到的回报！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/2d1e8a124bf11087aacc3ad2619f94d0-dd5af24b95f8c6aa70c9d9b938f9592e.jpeg" width="1440" height="1920" class="img_ev3q"></p>
+<p>未来还很长，还需要继续坚持下去，执着着自己热爱的事，为之努力和奋斗。哪怕过程艰辛并且困难重重，享受着一路的荆棘，伤痛总是伴随着成长，加油，你能坚持下去，并且你一定可以做到！！！</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2不足努力">2.不足💦&amp;努力💪：<a href="https://lunatice.com/blog/2021/12/28/2021/#2%E4%B8%8D%E8%B6%B3%E5%8A%AA%E5%8A%9B" class="hash-link" aria-label="2.不足💦&amp;努力💪：的直接链接" title="2.不足💦&amp;努力💪：的直接链接">​</a></h3>
+<p>试着与人为善，但是绝不随波逐流，保持自己的初心，坚持自己，不因别人的言论或看法而动摇，我就是我，别人怎么说怎么想终究只是别人的看法，他们根本不了解你，真正了解你的只有你自己。</p>
+<p>只对自己好，别当烂好人。多爱自己一些，付出太多，总有人会把这份善意当成理所当然。孤独高傲一点，少说话，或者不说话，多做事，多努力，做自己。说再多期望再多规划，描绘再多美好未来，功成名就也只是在白日做梦，还不如珍惜眼前时间，多做一点，多努力一点，向优秀的人多靠近一点。</p>
+<p>珍视时间，量化自己的时间。不浪费别人的时间，也不要让别人浪费自己的时间。多花些时间在学习和努力提升自己这件事上，其他的与自己利益无关的事，少关心，少过问，少说话，少参合。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/8ee71bfda0adc32dfd9f98d76a49453e-632b0aad7c8ccc121324bda0d53d48f1.jpeg" width="524" height="300" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二期许">二、期许🎄：<a href="https://lunatice.com/blog/2021/12/28/2021/#%E4%BA%8C%E6%9C%9F%E8%AE%B8" class="hash-link" aria-label="二、期许🎄：的直接链接" title="二、期许🎄：的直接链接">​</a></h2>
+<p><strong>希望粉丝还能涨一点，哈哈哈，想得到一个创作者身份！！！</strong></p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/db95db15aa346be7cc8a8f7cb3bf81e9-8788a9d89afcc94929541bf07ccd9382.jpeg" width="960" height="540" class="img_ev3q"></p>
+<p>能坚持学习，学习更多的计算机知识，用代码去编写自己的人生。希望自己坚持变得更好，每天进步那么一点，改变一点。期许我爱的人一直都在💓，爱我的人会有人一直爱💓.......</p>
+<p>希望有越来越多的人能喜欢我的文章，也希望自己的文章能被更多人看到，如果有什么问题也希望有人能给出指正。</p>
+<p>希望自己还能更优秀一些，更努力一些，更自律一些！！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/193d44bf0dc1e885daf5fe1159986e3d-bcdd5f11be0591cf0f7e44eade4cb0c9.jpeg" width="650" height="366" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="三规划">三、规划🌌：<a href="https://lunatice.com/blog/2021/12/28/2021/#%E4%B8%89%E8%A7%84%E5%88%92" class="hash-link" aria-label="三、规划🌌：的直接链接" title="三、规划🌌：的直接链接">​</a></h2>
+<p>学习前端，用HTML、CSS、JavaScript...去搭建自己的个人网站，写一个个人简历吧，记录自己的程序人生。继续深入的学习后端的知识，总要有一个比较突出的能力方向。不断尝试AI，未来必然是人工智能的时代。</p>
+<p>坚持阅读，坚持去欣赏文学中的美。努力提高自己的英语，无论是口语还是写作！</p>
+<p>每天保持一个良好的心态去面对未来的一切，即使险些不堪重负，也要笑着去面对，笑着去享受每一生命中所有的经历的一切，无论是成功或者失败，这都是人生旅程中的风景。不去悲观，不去怨天尤人，不去自暴自弃，不去自我消耗；就是淡然享受便好！！！</p>
+<p>无论如何，永远也不会停下前进的脚步！！！加油！！！2021👊不负期许，未来可期！！</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/23ef71ed6beef6baed5227a487c8fe29-042b0db518091e393f8c6a627f38bfaf.jpeg" width="1000" height="563" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[【程序人生】“阶段总结“-幕天席地]]></title>
+            <link>https://lunatice.com/blog/2021/12/17/2021/</link>
+            <guid>https://lunatice.com/blog/2021/12/17/2021/</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[一、序💬：]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="一序">一、序💬：<a href="https://lunatice.com/blog/2021/12/17/2021/#%E4%B8%80%E5%BA%8F" class="hash-link" aria-label="一、序💬：的直接链接" title="一、序💬：的直接链接">​</a></h2>
+<p><strong>好久没有静下心来写总结了，在我想在开始之前先看一篇微信公众号文章：</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/2Cz08S5Kc2A6ARS0VKU_5Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/2Cz08S5Kc2A6ARS0VKU_5Q</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="为什么优秀的人对自己都很宽容">为什么优秀的人，对自己都很宽容？<a href="https://lunatice.com/blog/2021/12/17/2021/#%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E7%9A%84%E4%BA%BA%E5%AF%B9%E8%87%AA%E5%B7%B1%E9%83%BD%E5%BE%88%E5%AE%BD%E5%AE%B9" class="hash-link" aria-label="为什么优秀的人，对自己都很宽容？的直接链接" title="为什么优秀的人，对自己都很宽容？的直接链接">​</a></h3>
+<p>​    从小以来，我接受的教育都是，要自我严格要求，多做自我批评。我对此深信不疑，尤其在求学期间，更是身体力行。</p>
+<blockquote>
+<p>🙃同学一，有次来找我倾诉：</p>
+<p>​    他说晚上回家时，没地方停车，不得已停在了一家小卖部的门前，虽然明知第二天可能会被店主骂，但也实在没办法了。不过好彩的是，往家走的时候，突然发现一辆车开走了，多了一个空车位。为了防止被人抢了，他赶紧将自己的电脑包放在车位上，然后立马跑过去挪车。等车开过来时一看，傻眼了。不仅车位被人占了，电脑包还被这辆车压轮子下了，里面的电脑被压得粉碎。于是，不仅车位没停到，还因为是否应该赔偿电脑问题，闹腾到深夜，其它事又都被耽搁了。就因为这件事，他在电话里各种自责，将自己骂了一个多小时，觉得自己很笨：怎么会用电脑包占停车位呢，随便用个其它什么东西也好哇，就是脑子笨，想不到。进而，联想到自己过往的种种犯傻行为，最后得出了一个结论：老师，我是不是一个很没用的人？</p>
+</blockquote>
+<blockquote>
+<p>🙃<strong>同学二，同样找我来做倾诉：</strong></p>
+<p>​    起因是PPT做得不合领导意，被领导骂得狗血喷头。这位同学同样从抱怨开始：领导自己说不清楚，还怪我没写好。**但他接下来就不再抱怨了，而是话锋一转，跟我讨论：**如何在领导说不清楚的情况下，做好领导安排的任务呢？</p>
+</blockquote>
+<p>如果按传统教育的观点来看，同学一的做法特别值得鼓励，因为他都是从自身找原因，而且特别勇于自我批评，甚至将自己批评成一个废物。而同学二的做法就很不值得鼓励了，因为他归因于领导，没做任何的自我批评。</p>
+<p>但事实却是，第一位同学在工作上真是步步维艰、职业生涯挺不顺的；而第二位同学则是公司里最年轻有为的管理者。他们两人做法的差距，就是严厉的自我批评与正确的自我谅解之间的差异。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="1自我批评的弊端">1.自我批评的弊端：<a href="https://lunatice.com/blog/2021/12/17/2021/#1%E8%87%AA%E6%88%91%E6%89%B9%E8%AF%84%E7%9A%84%E5%BC%8A%E7%AB%AF" class="hash-link" aria-label="1.自我批评的弊端：的直接链接" title="1.自我批评的弊端：的直接链接">​</a></h4>
+<p>​        我们的传统文化，深受儒家文化的影响。儒家文化有很多非常优秀的地方，但同时也有其不足之处：严厉有余，宽余不足。特别是对待自己，儒家文化更是强调要严格、严格再严格。</p>
+<p>比如，儒家提倡君子应该具有的四大品格“自省、克己、慎独、宽人”，前三个都是对自我的严格要求。严格的自我要求，确实能培养出德才兼备的伟大人物，比如明代的王阳明，建国后的周恩来。</p>
+<p>但伟人的成功故事往往更适合膜拜，而非模仿。太过严厉的自我批评，对我们普通人来说，往往会适得其反。它会导致三个副作用：</p>
+<ul>
+<li>自我效能感的降低</li>
+</ul>
+<blockquote>
+<p>自我批评是有必要的，它能让我们看清自己，发现不足，从而加以改正。但不能矫枉过正，过于严厉的自我批评，问题就大了。它会导致我们自信度的下降，甚至会导致自我否定，也就是自我效能感降低。一旦自我效能感降低， <strong>我们就会习惯性地认为自己不行</strong></p>
+</blockquote>
+<ul>
+<li>自我妨碍策略的诱发</li>
+</ul>
+<blockquote>
+<p>根据社会心理学的研究，人都有维护自尊的倾向。</p>
+<p>这时，矛盾就来了：严厉的自我批评，要求我们将原因都归在自己身上，但自尊心又不允许我们贬低自我。</p>
+<p>这种矛盾状况下，就会诱发我们采取一种自我欺骗的心理策略，叫“自我妨碍策略”。什么意思呢？就是我们还是会将失败归于自己，但我们会找一个自尊程度更高的理由，然后将这个理由，以故意的行为，刻意放大为主要原因。</p>
+<p>比如，考试前努力复习，但是没及格，下次考试前，你就会故意不复习。这样，虽然两次考试都没及格，但第二次你会心里好受点：不复习，考试没过，这只是态度问题；复习了，考试没过，这就是能力问题。你看，用这种自我妨碍的策略，我们对自我的攻击，就不是自尊程度很低的“笨”，而是自尊程度高了不少的“不努力”。</p>
+<p>在这种策略下，我们会因为害怕失败，而去主动制造失败！</p>
+<p>比如有些人，一到项目关键时刻，就会故意拉着客户泡功夫茶，厕所跑了一趟又一趟，就是不提正事，拖到最后一刻再草草了事。事情做砸后，就理直气壮地说：我只是没发力，我一发力的话，保管做得很好。</p>
+<p>这就是用自我妨碍策略，以自我心理欺骗——我不是笨，我只是没发力——来回避对自己能力的攻击。</p>
+</blockquote>
+<ul>
+<li>破罐子破摔的恶性循环</li>
+</ul>
+<blockquote>
+<p>严厉的自我批评，会带来强烈的懊恼感和自责感，从而会将接下来的精力和时间，都沉湎在对过去的懊恼和自责中。</p>
+<p>比如，减肥时多吃了一顿烧烤，你就会不断懊恼：完蛋了，这周撸铁的汗又白流了，怎么自控力就这么差呢？人在自责中，意志力往往会更薄弱。你越想越气，人类花了几百万年才走到了食物链顶端，我这也不吃，那也不吃，做人还有什么意义？于是，那次你不但吃了烧烤，还报复性喝了一杯奶茶，外加一客生煎包吃完你更后悔了：作孽啊，我到底在干嘛？</p>
+<p>一个“放纵-后悔-再放纵-再后悔”的恶性循环就这样形成了。</p>
+<p>你看，我们以为能帮助自己进步的自我批评，一旦没用好的话，反而会适得其反，导致很多副作用。因此，不能一味地自我批评，还要学会自我谅解。</p>
+</blockquote>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="2自我谅解的好处">2.<strong>自我谅解的好处：</strong><a href="https://lunatice.com/blog/2021/12/17/2021/#2%E8%87%AA%E6%88%91%E8%B0%85%E8%A7%A3%E7%9A%84%E5%A5%BD%E5%A4%84" class="hash-link" aria-label="2自我谅解的好处的直接链接" title="2自我谅解的好处的直接链接">​</a></h4>
+<p>自我批评会导致“放纵-后悔-再放纵-再后悔”的恶性循环。</p>
+<p>但导致这个恶性循环的真正元凶，并不是第一次的放弃，而是第一次放弃后产生的羞耻感、罪恶感、失控感和绝望感。而自我谅解，能很好地把你从羞耻、自责和绝望的泥潭中拉出来，从而打破这个恶性循环。</p>
+<p>自我谅解，主要是从下面两点来帮我们摆脱自责，完善自己的：</p>
+<ul>
+<li>消除失败后的负面情绪</li>
+</ul>
+<blockquote>
+<p>失败后之所以有负面情绪，无外乎两点：对现在的自我失望和对未来没有信心。</p>
+<p>比如高考落榜，之所以让人感觉痛苦，就是因为这不仅是对自己当前能力的否定，也是对未来信心的剥夺。</p>
+<p>自我谅解则会告诉你，这没什么大不了，人人都可能碰到，而且将来是完全可以改变的。</p>
+<p>并且在这时，有个功成名就的大佬告诉你，高考失利并不可怕，我也是考了好几次，一次还比一次好。你是不是瞬间就充满了斗志？</p>
+</blockquote>
+<ul>
+<li>变逃避为积极改进</li>
+</ul>
+<blockquote>
+<p>遇到失败和挫折后，我们之所以会否认和逃避，是因为这种失败和挫折对我们的自尊形成了伤害。</p>
+<p>为了维护自尊，我们就会倾向于否认和逃避。</p>
+<p>而倾向于自我谅解的人，不会因为一次、二次失败就否定自己，因此自尊不会受到伤害，自然也就更能坦然接受失败和挫折。</p>
+<p>那自我谅解是不是告诉自己这个失败没啥了不起，然后躺着，该干嘛就干嘛呢？</p>
+<p>比如，因为贪玩游戏，考试不及格后，坦然地告诉自己“这没什么大不了的”，之后继续昏天暗地地玩游戏，继续不及格呢？肯定不是！自我谅解也要正确的方法，不然就成自我放弃了。</p>
+</blockquote>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="3自我谅解的方法">3.<strong>自我谅解的方法：</strong><a href="https://lunatice.com/blog/2021/12/17/2021/#3%E8%87%AA%E6%88%91%E8%B0%85%E8%A7%A3%E7%9A%84%E6%96%B9%E6%B3%95" class="hash-link" aria-label="3自我谅解的方法的直接链接" title="3自我谅解的方法的直接链接">​</a></h4>
+<p>正确的自我谅解分为三步：</p>
+<p>◆ 步骤一：我为何会感觉负面？</p>
+<blockquote>
+<p>这一步的目的，是为了找出负面情绪的根源，以免只顾沉浸在情绪中，而没有走出来的方法。</p>
+</blockquote>
+<p>◆ 步骤二：其他人也会这样吗？</p>
+<blockquote>
+<p>第二步的目的，是通过发现绝大多数人都有类似的情况，来避免对自己的否定。</p>
+</blockquote>
+<p>◆ 步骤三：我下一步要做什么？</p>
+<blockquote>
+<p>第三步的目的，是为了第一时间做出改进，以消除负面影响。自我谅解不是自我放纵的借口，不能自我开脱后，依旧我行我素，继续放纵。</p>
+</blockquote>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="总结">总结：<a href="https://lunatice.com/blog/2021/12/17/2021/#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="总结：的直接链接" title="总结：的直接链接">​</a></h4>
+<p>挫折和失败是一个人成长的必然，没有人可以例外。这都是人生常态。</p>
+<p>面对失败，你是采取正确的自我谅解，还是严厉的自我批评，就决定了你是能从失败中汲取能量，越来越优秀，还是在失败里一蹶不振，越来越消沉。严厉的自我批评，看似正确，但实际上弊大于利，很容易让人在懊恼里消耗精力，丧失向前的勇气。</p>
+<p>正确的自我谅解，看似放松要求，实则更能提高我们的积极性、自控力和持续做好一件事的韧性。当然，要特别留意，自我谅解不等于自我放纵，自我开脱之后，一定要做好最后一步：我接下来要做什么。否则，自我谅解就成了自我放弃！</p>
+<p>人生只有走出来的美丽，没有后悔出来的辉煌。祝你在自我谅解中变得越来越优秀。</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="二自省">二、自省💬：<a href="https://lunatice.com/blog/2021/12/17/2021/#%E4%BA%8C%E8%87%AA%E7%9C%81" class="hash-link" aria-label="二、自省💬：的直接链接" title="二、自省💬：的直接链接">​</a></h2>
+<p>最近看了这篇文章，感觉写得很好，分享给大家。我从中收获到很多，也希望能给你带来一些帮助吧！！！</p>
+<p>从小，我爸对我要求还是蛮严格的，他是一个不太喜欢鼓励或者是称赞我的人，可能是怕我骄傲吧，也许是我不够争气😂。我习惯性的会对自己进行一个批评，发现自己的问题，一开始我发现这还是一个比较好的习惯（因为以前可能没有那么大的压力），后来这种性格就像病变了一样，我曾一度怀疑自己是一个废物，也曾想过轻生......</p>
+<p>其实我的个性还是蛮像第一个同学的。这种自我批评的心理给我带了很多自我怀疑，很多焦虑，困扰......以至于我很难从生活学习中找到成就感，也很难去长期坚持一个事情（虽然我已经很努力了），因为一旦坚持被打断，我估计就开始怀疑，批评自己，陷入那种“放纵-后悔-再放纵-再后悔”的死循环中。</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/a17acb187ab0e7c2cbd3925a870327a3-649c06807fc237bbba4253bb8aea948b.jpeg" width="650" height="362" class="img_ev3q"></p>
+<p>亲身实践，我慢慢去尝试自我谅解，我觉得还是挺有用的，至少现在我能够静下心来面对我的失败或者很大压力的学任务。</p>
+<p>我是一个完美主义者，再加上这种自我批评心理，（我简直快乐得飞起！！！）。我的大学生活过得十分艰难，曾经有很长一段时间我都沉溺在自我怀疑，自我否定阴影中，我觉得快被那种无形的压力压得喘不过气。</p>
+<p>我拼了命努力得努力，却发现总是跟不上别人得的脚步，好像我做什么永远都比别人差......</p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/539e41c4737bd24dbb31570e87ef971e-dc500d38e2893cde04030956b05250c2.png" width="876" height="439" class="img_ev3q"></p>
+<p>所以，在那段时间里。我开始自我怀疑，自我抱怨，无论做什么都提不起劲，打不起精神。现在想起来，反而是浪费了我的很多时间啊。（好可惜，呜呜呜）</p>
+<p>最后，还是想说明的就是，不要让自己陷入自我批评的死循环了，可以每天适当的自省，但切不可过于自责，努力过好当下，未来偶尔展望一下就好，过去偶尔回顾一下就罢。行动终还是当下！</p>
+<p><strong>努力する!奮闘!</strong></p>
+<p><img decoding="async" loading="lazy" alt="img" src="https://lunatice.com/assets/images/de39f8e6cf022f44296515a06041f9a3-dad09d2d2bd79936e8f169da8d802ff6.jpeg" width="650" height="368" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
