@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkairc_doc_website=self.webpackChunkairc_doc_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"\u767e\u6210 \u4e2a\u4eba\u535a\u5ba2","authorsListPath":"/blog/authors"}')}}]);
