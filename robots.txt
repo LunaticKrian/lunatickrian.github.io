@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /unlock
+Disallow: /pdf-viewer
+
+Sitemap: https://lunatice.com/sitemap.xml
